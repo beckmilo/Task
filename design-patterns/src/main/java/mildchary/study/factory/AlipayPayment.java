@@ -1,4 +1,4 @@
-package mildchary.study.factorypattern;
+package mildchary.study.factory;
 
 /**
  * @author by mildchary
